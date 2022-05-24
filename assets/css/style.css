@@ -1,5 +1,11 @@
 /*Estilo da página index.html*/
 
+body {
+    background-color: rgba(248, 227, 217, 0.5); 
+    color: #253A44;
+    font-family: 'Montserrat', sans-serif;
+  }
+
 .center{
     text-align: center;
 }
@@ -22,7 +28,7 @@
 
 #menu li a{
     text-decoration: none;
-    color: black;
+    color: #253A44; 
     font-size: 20px;
 }
 
